@@ -1,0 +1,15 @@
+{
+  "name": "iframe-csp-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "proprietary",
+  "author": "dhanu.gupta@gmail.com",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

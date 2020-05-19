@@ -37,3 +37,60 @@ http://localhost:3000/iframecspsandbox.html
 
  - [x] referrerPolicy="strict-origin"
 
+ - [x] Attribute details:
+
+ <table>
+     <thead>
+     <tr>
+         <th>Flag</th>
+         <th>Details</th>
+     </tr>
+     </thead>
+     <tbody>
+     <tr>
+         <td><strong>allow-forms</strong></td>
+         <td>Allows form submission.</td>
+     </tr>
+     <tr>
+         <td><strong>allow-modals</strong></td>
+         <td>Allows the resource to open new modal windows.</td>
+     </tr>
+     <tr>
+         <td><strong>allow-orientation-lock</strong></td>
+         <td>Allows the resource to lock the screen orientation.</td>
+     </tr>
+     <tr>
+         <td><strong>allow-pointer-lock</strong></td>
+         <td>Allows the resource to use the Pointer Lock API.</td>
+     </tr>
+     <tr>
+         <td><strong>allow-popups</strong></td>
+         <td>Allows the resource to open new popups or tabs.</td>
+     </tr>
+     <tr>
+         <td><strong>allow-popups-to-escape-sandbox</strong></td>
+         <td>Allows the resource to open new windows that will not inherit the sandboxing.</td>
+     </tr>
+     <tr>
+         <td><strong>allow-presentation</strong></td>
+         <td>Allows the resource to start a presentation session.</td>
+     </tr>
+     <tr>
+         <td><strong>allow-same-origin</strong></td>
+         <td>Allows the resource to maintain its origin.</td>
+     </tr>
+     <tr>
+         <td><strong>allow-scripts</strong></td>
+         <td>Allows the resource to run scripts.</td>
+     </tr>
+     <tr>
+         <td><strong>allow-top-navigation</strong></td>
+         <td>Allows the resource to navigate the top-level browsing context.</td>
+     </tr>
+     <tr>
+         <td><strong>allow-top-navigation-by-user-activation</strong></td>
+         <td>Allows the resource to navigate the top-level browsing context, but only if initiated by a user gesture.</td>
+     </tr>
+     </tbody>
+ </table>
+
